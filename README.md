@@ -54,3 +54,18 @@ To get started with creating maps for each theme:
    ```bash
    git clone https://github.com/yourusername/30DayMapChallenge2024.git
    cd 30DayMapChallenge2024
+
+
+## Contributing
+We welcome contributions! If you would like to participate in the challenge or improve the repository:
+
+- Fork the repository.
+- Create a new branch.
+- Make your changes and submit a pull reques
+
+## Acknowledgements
+- Inspired by the 30 Day Map Challenge community.
+- Thanks to all contributors and participants!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
