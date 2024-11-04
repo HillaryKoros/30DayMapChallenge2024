@@ -18,7 +18,7 @@ The 30 Day Map Challenge is an opportunity to explore different mapping techniqu
 | Date       | Theme                   | Description                                           |
 |------------|-------------------------|-------------------------------------------------------|
 | Nov 1      | [Points](01-points)     | Map individual locations, such as cities, landmarks, or abstract concepts. 📍 |
-| Nov 2      | [Lines](02-lines)       | Focus on connections, such as roads, rivers, or routes. 📏 |
+<!-- | Nov 2      | [Lines](02-lines)       | Focus on connections, such as roads, rivers, or routes. 📏 |
 | Nov 3      | [Polygons](03-polygons)  | Visualize defined areas, like regions, countries, or lakes. 🛑 |
 | Nov 4      | [Hexagons](04-hexagons)  | Use hexagonal grids to show density or spatial patterns. 🔷 |
 | Nov 5      | [A Journey](05-journey)  | Trace a personal journey or historical route. 🚶‍♂️✈️ |
@@ -46,7 +46,7 @@ The 30 Day Map Challenge is an opportunity to explore different mapping techniqu
 | Nov 27     | [Micromapping](27-micromapping) | Focus on small areas with high detail, such as a single building or street. 🧐🔍 |
 | Nov 28     | [The Blue Planet](28-blue-planet) | Map water bodies such as oceans, rivers, and lakes. 🌊🐋 |
 | Nov 29     | [Overture](29-overture)    | Use data from the Overture Maps Foundation to create new geographic datasets. 🌍📊 |
-| Nov 30     | [The Final Map](30-final-map) | End the challenge with a map of your choice, revisiting earlier techniques or trying something new. 🎉🌐 |
+| Nov 30     | [The Final Map](30-final-map) | End the challenge with a map of your choice, revisiting earlier techniques or trying something new. 🎉🌐 | -->
 
 
 ## Getting Started
