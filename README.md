@@ -18,7 +18,7 @@ The 30 Day Map Challenge is an opportunity to explore different mapping techniqu
 | Date       | Theme                   | Description                                           |
 |------------|-------------------------|-------------------------------------------------------|
 | Nov 1      | **Points**              | Map individual locations, such as cities, landmarks, or abstract concepts. 📍 |
-| Nov 2      | **Lines**               | Focus on connections, such as roads, rivers, or routes. 📏 |
+<!-- | Nov 2      | **Lines**               | Focus on connections, such as roads, rivers, or routes. 📏 |
 | Nov 3      | **Polygons**            | Visualize defined areas, like regions, countries, or lakes. 🛑 |
 | Nov 4      | **Hexagons**            | Use hexagonal grids to show density or spatial patterns. 🔷 |
 | Nov 5      | **A Journey**           | Trace a personal journey or historical route. 🚶‍♂️✈️ |
@@ -46,7 +46,7 @@ The 30 Day Map Challenge is an opportunity to explore different mapping techniqu
 | Nov 27     | **Micromapping**        | Focus on small areas with high detail, such as a single building or street. 🧐🔍 |
 | Nov 28     | **The Blue Planet**     | Map water bodies such as oceans, rivers, and lakes. 🌊🐋 |
 | Nov 29     | **Overture**            | Use data from the Overture Maps Foundation to create new geographic datasets. 🌍📊 |
-| Nov 30     | **The Final Map**       | End the challenge with a map of your choice, revisiting earlier techniques or trying something new. 🎉🌐 |
+| Nov 30     | **The Final Map**       | End the challenge with a map of your choice, revisiting earlier techniques or trying something new. 🎉🌐 | -->
 
 ## Getting Started
 To get started with creating maps for each theme:
@@ -61,7 +61,7 @@ We welcome contributions! If you would like to participate in the challenge or i
 
 - Fork the repository.
 - Create a new branch.
-- Make your changes and submit a pull reques
+- Make your changes and submit a pull request
 
 ## Acknowledgements
 - Inspired by the 30 Day Map Challenge community.
